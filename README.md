@@ -1,3 +1,3 @@
-Este é o meu repositório pessoal do website feito por mim para https://github.com/cesium/snake-game.
+The support website for the 2019 Jekyll workshop by [CeSIUM](http://www.cesium.di.uminho.pt/).
 
-Utiliza o template [**Beautiful Jekyll**](https://github.com/daattali/beautiful-jekyll).
+It uses the [**Beautiful Jekyll**](https://github.com/daattali/beautiful-jekyll) template.
